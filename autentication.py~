@@ -1,14 +1,27 @@
-from linkedin import server
 from linkedin import linkedin # pip install python-linkedin
 import json
 from prettytable import PrettyTable # pip install prettytable
 
-CONSUMER_KEY = 'ezs4dy3ktwa4'
-CONSUMER_SECRET = 'K7tXiFMkuCCkVeiW'
+# Define CONSUMER_KEY, CONSUMER_SECRET,
+# USER_TOKEN, and USER_SECRET from the credentials
+# provided in your LinkedIn application
+
+CONSUMER_KEY = '77xdv685p8ovh5'
+CONSUMER_SECRET = 'EFTK1Nf0s9WuLx11'
+USER_TOKEN = '2c83cd93-a7cc-4594-8afe-cc4c6851763a'
+USER_SECRET = 'cbc4f4f9-96c5-429c-b25b-22d1ecf1c8de'
+RETURN_URL = 'http://localhost:8000' # Not required for developer authentication
+
+
+# Instantiate the developer authentication class
+auth = linkedin.LinkedInDeveloperAuthentication(CONSUMER_KEY, CONSUMER_SECRET,
+                                USER_TOKEN, USER_SECRET,
+                                RETURN_URL,
+                                permissions=linkedin.PERMISSIONS.enums.values())
 
 
 # Pass it in to the app...
-app = server.quick_api(CONSUMER_KEY, CONSUMER_SECRET)
+app = linkedin.LinkedInApplication(auth)
 
 # Use the app...
 app.get_profile()
