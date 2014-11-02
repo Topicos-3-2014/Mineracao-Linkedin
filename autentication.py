@@ -43,9 +43,7 @@ for c in connections['values']
 if c.has_key('location')]
 print pt
 
-# See http://developer.linkedin.com/documents/profile-fields#fullprofile
-# for details on additional field selectors that can be passed in for
-# retrieving additional profile information.
+
 # Display your own positions...
 my_positions = app.get_profile(selectors=['positions'])
 print json.dumps(my_positions, indent=1)
@@ -56,9 +54,3 @@ connection_id = connections['values'][0]['id']
 connection_positions = app.get_profile(member_id=connection_id,
 selectors=['positions'])
 print json.dumps(connection_positions, indent=1)
-
-
-# See http://developer.linkedin.com/documents/understanding-field-selectors
-# for more information on the field selector syntax
-my_positions = app.get_profile(selectors=['positions:(company:(name,industry,id))'])
-print json.dumps(my_positions, indent=1)
