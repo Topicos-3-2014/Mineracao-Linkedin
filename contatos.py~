@@ -48,6 +48,7 @@ file = open('profiles', 'r')
 
 profiles = json.loads(file.read())
 
+print profiles.get(profile['firstName'])
 
 if( profiles.get(profile['firstName']) is None ):
 	profiles[profile['firstName']] = profile
