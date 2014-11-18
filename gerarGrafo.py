@@ -17,17 +17,20 @@ def getLista(G):
 def gerargrafo(arquivo, contato):
 	G = nx.Graph(name="contato")
 
-	G.add_node(contato,nome = contato)
+	dic = {}.fromkeys(['nome','cargo', 'centrality'], 'null')
+	dic['nome'] =  contato
+
+		
+	G.add_node(contato, dic)
 	connections = json.loads(open(arquivo).read())
 
 	for c in connections['values']:
 		
-		dic = {}.fromkeys(['nome','cargo', 'nome'])
+		dic = {}.fromkeys(['nome','cargo', 'centrality'], "null")
 		dic['nome'] =  c['firstName']
 		dic['cargo'] = c['headline']
-		dic['nome'] = c['firstName']
+	
 		
-		#print dic,"\n"
 
 		G.add_node(c['firstName'] , dic)
 		G.add_edge( c['firstName'] , contato)
@@ -35,6 +38,11 @@ def gerargrafo(arquivo, contato):
 	
 	return G
 
+
+def calcularCentralidade(G):
+	for x in Grafo.nodes():
+		Grafo.node[x]['centrality'] = nx.degree_centrality(G).get(x) + nx.betweenness_centrality(G).get(x)
+	return G
 
 
 Grafo = nx.Graph(name="contatos")
@@ -57,10 +65,11 @@ for c in connections:
 
 
 #lista = getLista(Grafo)
+Grafo = calcularCentralidade(Grafo)
 
-
-for x in Grafo.nodes(data=True):
-	print x, "\n"
+for x in Grafo.nodes():
+	print Grafo.node[x]['nome']
+	print Grafo.node[x]['centrality'], "\n"
 
 
 nx.draw(Grafo)
