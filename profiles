@@ -7,6 +7,22 @@
   }, 
   "firstName": "Josiel"
  }, 
+ "Silas": {
+  "headline": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "lastName": "Tiago", 
+  "siteStandardProfileRequest": {
+   "url": "https://www.linkedin.com/profile/view?id=109945699&authType=name&authToken=2X_G&trk=api*a229653*s237575*"
+  }, 
+  "firstName": "Silas"
+ }, 
+ "Ra\u00ed": {
+  "headline": "Estudante do Bacharelado em C&T da UFRN", 
+  "lastName": "Gomes", 
+  "siteStandardProfileRequest": {
+   "url": "https://www.linkedin.com/profile/view?id=337734302&authType=name&authToken=RBRs&trk=api*a229653*s237575*"
+  }, 
+  "firstName": "Ra\u00ed"
+ }, 
  "Jorge": {
   "headline": "Estagi\u00e1rio em suporte/infraestrutura de servi\u00e7os de software na SINFO - Superintend\u00eancia de Inform\u00e1tica da UFRN", 
   "lastName": "Pereira", 
