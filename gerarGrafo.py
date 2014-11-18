@@ -17,7 +17,9 @@ def getLista(G):
 def gerargrafo(arquivo, contato):
 	G = nx.Graph(name="contato")
 
-	dic = {}.fromkeys(['nome','cargo', 'centrality'], 'null')
+	dic = {}.fromkeys(['nome','cargo', 'somaCentralidade', 'degree_centrality', 
+			'betweenness_centrality', 'closeness_centrality'], "null")
+
 	dic['nome'] =  contato
 
 		
@@ -26,7 +28,9 @@ def gerargrafo(arquivo, contato):
 
 	for c in connections['values']:
 		
-		dic = {}.fromkeys(['nome','cargo', 'centrality'], "null")
+		dic = {}.fromkeys(['nome','cargo', 'somaCentralidade', 'degree_centrality', 
+			'betweenness_centrality', 'closeness_centrality'], "null")
+
 		dic['nome'] =  c['firstName']
 		dic['cargo'] = c['headline']
 	
@@ -41,7 +45,12 @@ def gerargrafo(arquivo, contato):
 
 def calcularCentralidade(G):
 	for x in Grafo.nodes():
-		Grafo.node[x]['centrality'] = nx.degree_centrality(G).get(x) + nx.betweenness_centrality(G).get(x)
+		Grafo.node[x]['degree_centrality'] = nx.degree_centrality(G).get(x) 
+		Grafo.node[x]['betweenness_centrality'] = nx.betweenness_centrality(G).get(x)
+		Grafo.node[x]['closeness_centrality'] = nx.closeness_centrality(G).get(x)
+
+		Grafo.node[x]['somaCentralidade'] = Grafo.node[x]['degree_centrality']  + Grafo.node[x]['betweenness_centrality'] + Grafo.node[x]['closeness_centrality']
+
 	return G
 
 
@@ -68,8 +77,7 @@ for c in connections:
 Grafo = calcularCentralidade(Grafo)
 
 for x in Grafo.nodes():
-	print Grafo.node[x]['nome']
-	print Grafo.node[x]['centrality'], "\n"
+	print Grafo.node[x] , "\n"
 
 
 nx.draw(Grafo)
