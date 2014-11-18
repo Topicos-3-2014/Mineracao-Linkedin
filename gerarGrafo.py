@@ -5,11 +5,13 @@ import matplotlib.pyplot as plt
 
 #connections_data = 'linkedin_connections_Jorge.json'
 
+def Centralidades(no):
+	return no['somaCentralidade']
+
 def getLista(G):
 	nos = []
-	for x in range(0, G.number_of_nodes()):
-		#print G.node[x],"\n\n"
-		nos.append(G.node)
+	for x in Grafo.nodes():
+		nos.append(G.node[x])
 		
 	return nos
 
@@ -73,11 +75,16 @@ for c in connections:
 	print('\n\n'+ nx.info(Grafo))
 
 
-#lista = getLista(Grafo)
+
 Grafo = calcularCentralidade(Grafo)
 
-for x in Grafo.nodes():
-	print Grafo.node[x] , "\n"
+#lista contendo todos os nos do grafo
+lista = getLista(Grafo)
+#ordena a lista com base na soma das centralidades
+lista.sort(reverse=True, key=Centralidades)
+
+for x in lista:
+	print x['nome'],"  ", x['somaCentralidade'], "\n"
 
 
 nx.draw(Grafo)
