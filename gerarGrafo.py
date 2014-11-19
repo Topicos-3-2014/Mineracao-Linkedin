@@ -83,8 +83,14 @@ lista = getLista(Grafo)
 #ordena a lista com base na soma das centralidades
 lista.sort(reverse=True, key=Centralidades)
 
+
+
+f = open('lista_contatos', 'w')
+f.write(json.dumps(lista, indent=1))
+f.close()
+
 for x in lista:
-	print x['nome'],"  ", x['somaCentralidade'], "\n"
+	print x['nome'],",", x['betweenness_centrality'],",", x['degree_centrality'],",", x['closeness_centrality']
 
 
 nx.draw(Grafo)
