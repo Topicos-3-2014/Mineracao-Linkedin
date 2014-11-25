@@ -1,0 +1,91 @@
+{
+ "_total": 3, 
+ "values": [
+  {
+   "firstName": "Allyson", 
+   "headline": "Professor na Universidade Federal do Rio Grande do Norte", 
+   "lastName": "Carvalho de Ara\u00fajo", 
+   "industry": "Higher Education", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=193277415&authType=name&authToken=PVA2&trk=api*a229653*s237575*"
+   }, 
+   "location": {
+    "country": {
+     "code": "br"
+    }, 
+    "name": "Natal Area, Brazil"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/DsWpdxqgV4", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:PVA2"
+      }
+     ]
+    }
+   }, 
+   "id": "DsWpdxqgV4"
+  }, 
+  {
+   "firstName": "Nat\u00e1lia", 
+   "headline": "Estudante na UERN", 
+   "lastName": "Isabel", 
+   "industry": "Higher Education", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=239656417&authType=name&authToken=m03L&trk=api*a229653*s237575*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_I3Frdo4SxuDbsP4HIiv_dWM3x7oWZ9WHW_17dWWj8uOMbtYebFcpbdj1lFEnRAeXoGLa6aBS6-az", 
+   "location": {
+    "country": {
+     "code": "br"
+    }, 
+    "name": "Ic\u00f3 Area, Brazil"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/A0e2PKkJ-V", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:m03L"
+      }
+     ]
+    }
+   }, 
+   "id": "A0e2PKkJ-V"
+  }, 
+  {
+   "firstName": "Raimundo", 
+   "headline": "Profissional de Alimentos e bebidas", 
+   "lastName": "Nonato", 
+   "industry": "Food & Beverages", 
+   "siteStandardProfileRequest": {
+    "url": "https://www.linkedin.com/profile/view?id=201022042&authType=name&authToken=Zb9d&trk=api*a229653*s237575*"
+   }, 
+   "pictureUrl": "https://media.licdn.com/mpr/mprx/0_VoW0f8dMUJjmEC5XVdE2fGR5UpV8okqX4mg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hke6i4Mf", 
+   "location": {
+    "country": {
+     "code": "br"
+    }, 
+    "name": "Ic\u00f3 Area, Brazil"
+   }, 
+   "apiStandardProfileRequest": {
+    "url": "https://api.linkedin.com/v1/people/3gOMpkfoAx", 
+    "headers": {
+     "_total": 1, 
+     "values": [
+      {
+       "name": "x-li-auth-token", 
+       "value": "name:Zb9d"
+      }
+     ]
+    }
+   }, 
+   "id": "3gOMpkfoAx"
+  }
+ ]
+}

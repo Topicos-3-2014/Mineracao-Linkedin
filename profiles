@@ -15,6 +15,14 @@
   }, 
   "firstName": "Brenda"
  }, 
+ "Jo\u00e3o Marcos": {
+  "headline": "--", 
+  "lastName": "Saci 2011.2", 
+  "siteStandardProfileRequest": {
+   "url": "https://www.linkedin.com/profile/view?id=194485259&authType=name&authToken=rbmx&trk=api*a229653*s237575*"
+  }, 
+  "firstName": "Jo\u00e3o Marcos"
+ }, 
  "Silas": {
   "headline": "Estudante na Universidade Federal do Rio Grande do Norte", 
   "lastName": "Tiago", 
@@ -46,6 +54,14 @@
    "url": "https://www.linkedin.com/profile/view?id=251215079&authType=name&authToken=B1UK&trk=api*a229653*s237575*"
   }, 
   "firstName": "Josiel"
+ }, 
+ "Elaine": {
+  "headline": "Profissional de Software", 
+  "lastName": "Figueiredo", 
+  "siteStandardProfileRequest": {
+   "url": "https://www.linkedin.com/profile/view?id=289991746&authType=name&authToken=1vAj&trk=api*a229653*s237575*"
+  }, 
+  "firstName": "Elaine"
  }, 
  "Jo\u00e3o": {
   "headline": "Testador de software na Sinfo UFRN", 

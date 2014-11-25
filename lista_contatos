@@ -1,1274 +1,1426 @@
 [
  {
-  "somaCentralidade": 1.63046849904465, 
+  "somaCentralidade": 1.4733389679438371, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.626984126984127, 
-  "betweenness_centrality": 0.5098134859845738, 
+  "closeness_centrality": 0.5746753246753247, 
+  "betweenness_centrality": 0.45798567716681754, 
   "nome": "Silas", 
-  "degree_centrality": 0.49367088607594933
+  "degree_centrality": 0.4406779661016949
  }, 
  {
-  "somaCentralidade": 1.478203570128911, 
+  "somaCentralidade": 1.3405716563467744, 
   "cargo": "Estagi\u00e1rio em suporte/infraestrutura de servi\u00e7os de software na SINFO - Superintend\u00eancia de Inform\u00e1tica da UFRN", 
-  "closeness_centrality": 0.61003861003861, 
-  "betweenness_centrality": 0.4251269854067565, 
+  "closeness_centrality": 0.5619047619047619, 
+  "betweenness_centrality": 0.3831866684533119, 
   "nome": "Jorge", 
-  "degree_centrality": 0.4430379746835443
+  "degree_centrality": 0.3954802259887006
  }, 
  {
-  "somaCentralidade": 0.9330668323855456, 
-  "cargo": "ACESSOR", 
-  "closeness_centrality": 0.512987012987013, 
-  "betweenness_centrality": 0.1859026042086592, 
-  "nome": "Francisco", 
-  "degree_centrality": 0.23417721518987342
- }, 
- {
-  "somaCentralidade": 0.9137241459046586, 
+  "somaCentralidade": 0.8359655766603956, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.5302013422818792, 
-  "betweenness_centrality": 0.18732027197720974, 
+  "closeness_centrality": 0.5, 
+  "betweenness_centrality": 0.16082433372254254, 
   "nome": "Josiel", 
-  "degree_centrality": 0.1962025316455696
+  "degree_centrality": 0.1751412429378531
  }, 
  {
-  "somaCentralidade": 0.7126531290917205, 
-  "cargo": "null", 
-  "closeness_centrality": 0.49221183800623053, 
-  "betweenness_centrality": 0.08120078475637606, 
-  "nome": "Jo\u00e3o", 
-  "degree_centrality": 0.13924050632911392
- }, 
- {
-  "somaCentralidade": 0.6444728367067617, 
-  "cargo": "Estudante do Bacharelado em C&T da UFRN", 
-  "closeness_centrality": 0.3844282238442822, 
-  "betweenness_centrality": 0.15877879007766935, 
-  "nome": "Ra\u00ed", 
-  "degree_centrality": 0.10126582278481013
- }, 
- {
-  "somaCentralidade": 0.5623668955347072, 
-  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.48466257668711654, 
-  "betweenness_centrality": 0.0523878631513881, 
-  "nome": "Arthur", 
-  "degree_centrality": 0.02531645569620253
- }, 
- {
-  "somaCentralidade": 0.519895682806269, 
-  "cargo": "Desenvolvedora na Gamedu", 
-  "closeness_centrality": 0.48615384615384616, 
-  "betweenness_centrality": 0.0020962670321696356, 
-  "nome": "Rebeca", 
-  "degree_centrality": 0.03164556962025317
- }, 
- {
-  "somaCentralidade": 0.519895682806269, 
-  "cargo": "Bolsista SWG - Ci\u00eancias sem Fronteiras at CAPES - Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior", 
-  "closeness_centrality": 0.48615384615384616, 
-  "betweenness_centrality": 0.0020962670321696356, 
-  "nome": "Felipe", 
-  "degree_centrality": 0.03164556962025317
- }, 
- {
-  "somaCentralidade": 0.519895682806269, 
+  "somaCentralidade": 0.5400363846018209, 
   "cargo": "Diretor de Marketing na 4Soft (Empresa Junior de Engenharia de Software)", 
-  "closeness_centrality": 0.48615384615384616, 
-  "betweenness_centrality": 0.0020962670321696356, 
+  "closeness_centrality": 0.4889502762430939, 
+  "betweenness_centrality": 0.017187803273981284, 
   "nome": "Thiago", 
-  "degree_centrality": 0.03164556962025317
+  "degree_centrality": 0.03389830508474576
  }, 
  {
-  "somaCentralidade": 0.5037866045954675, 
-  "cargo": "Procurando est\u00e1gio", 
-  "closeness_centrality": 0.4773413897280967, 
-  "betweenness_centrality": 0.0011287591711682658, 
-  "nome": "Giovanni", 
-  "degree_centrality": 0.02531645569620253
+  "somaCentralidade": 0.8588459093953973, 
+  "cargo": "ACESSOR", 
+  "closeness_centrality": 0.48626373626373626, 
+  "betweenness_centrality": 0.1635426251090621, 
+  "nome": "Francisco", 
+  "degree_centrality": 0.20903954802259886
  }, 
  {
-  "somaCentralidade": 0.5037866045954675, 
-  "cargo": "Researcher at Federal University of Rio Grande do Norte", 
-  "closeness_centrality": 0.4773413897280967, 
-  "betweenness_centrality": 0.0011287591711682658, 
-  "nome": "Igor", 
-  "degree_centrality": 0.02531645569620253
- }, 
- {
-  "somaCentralidade": 0.5037866045954675, 
-  "cargo": "Full-stack Web Developer", 
-  "closeness_centrality": 0.4773413897280967, 
-  "betweenness_centrality": 0.0011287591711682658, 
+  "somaCentralidade": 0.5232840674611838, 
+  "cargo": "Diretor Administrativo na Caixa de Presentes", 
+  "closeness_centrality": 0.48097826086956524, 
+  "betweenness_centrality": 0.014057219020997172, 
   "nome": "Lucas", 
-  "degree_centrality": 0.02531645569620253
+  "degree_centrality": 0.02824858757062147
  }, 
  {
-  "somaCentralidade": 0.5023158144391378, 
-  "cargo": "Web Developer at LogAp Sistemas", 
-  "closeness_centrality": 0.4688427299703264, 
-  "betweenness_centrality": 0.001827514848558143, 
-  "nome": "Larissa", 
-  "degree_centrality": 0.03164556962025317
+  "somaCentralidade": 0.5232840674611838, 
+  "cargo": "Researcher at Federal University of Rio Grande do Norte", 
+  "closeness_centrality": 0.48097826086956524, 
+  "betweenness_centrality": 0.014057219020997172, 
+  "nome": "Igor", 
+  "degree_centrality": 0.02824858757062147
  }, 
  {
-  "somaCentralidade": 0.494668404597454, 
+  "somaCentralidade": 0.5232840674611838, 
+  "cargo": "System Analyst", 
+  "closeness_centrality": 0.48097826086956524, 
+  "betweenness_centrality": 0.014057219020997172, 
+  "nome": "Giovanni", 
+  "degree_centrality": 0.02824858757062147
+ }, 
+ {
+  "somaCentralidade": 0.666197856828004, 
+  "cargo": "null", 
+  "closeness_centrality": 0.46949602122015915, 
+  "betweenness_centrality": 0.07240805029711037, 
+  "nome": "Jo\u00e3o", 
+  "degree_centrality": 0.12429378531073446
+ }, 
+ {
+  "somaCentralidade": 0.509918529447361, 
+  "cargo": "Associate Professor and Researcher at UFRN in Software Engineering, Software Design, Human-Computer Interaction", 
+  "closeness_centrality": 0.46701846965699206, 
+  "betweenness_centrality": 0.014651472219747514, 
+  "nome": "Jair", 
+  "degree_centrality": 0.02824858757062147
+ }, 
+ {
+  "somaCentralidade": 0.4860632620109542, 
+  "cargo": "--", 
+  "closeness_centrality": 0.45268542199488493, 
+  "betweenness_centrality": 0.010778969959572088, 
+  "nome": "Renato", 
+  "degree_centrality": 0.022598870056497175
+ }, 
+ {
+  "somaCentralidade": 0.5311325561506196, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.4388888888888889, 
-  "betweenness_centrality": 0.030463060012362597, 
+  "closeness_centrality": 0.45038167938931295, 
+  "betweenness_centrality": 0.0525022891906852, 
   "nome": "Anderson", 
-  "degree_centrality": 0.02531645569620253
+  "degree_centrality": 0.02824858757062147
  }, 
  {
-  "somaCentralidade": 0.4913931518613943, 
+  "somaCentralidade": 0.47797208672202346, 
+  "cargo": "Professor at Federal University of Rio Grande do Norte", 
+  "closeness_centrality": 0.44472361809045224, 
+  "betweenness_centrality": 0.010649598575074037, 
+  "nome": "Frederico", 
+  "degree_centrality": 0.022598870056497175
+ }, 
+ {
+  "somaCentralidade": 0.4723264396107231, 
+  "cargo": "Desenvolvedora na Gamedu", 
+  "closeness_centrality": 0.4425, 
+  "betweenness_centrality": 0.0015778520401016544, 
+  "nome": "Rebeca", 
+  "degree_centrality": 0.02824858757062147
+ }, 
+ {
+  "somaCentralidade": 0.4723264396107231, 
+  "cargo": "Bolsista SWG - Ci\u00eancias sem Fronteiras at CAPES - Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior", 
+  "closeness_centrality": 0.4425, 
+  "betweenness_centrality": 0.0015778520401016544, 
+  "nome": "Felipe", 
+  "degree_centrality": 0.02824858757062147
+ }, 
+ {
+  "somaCentralidade": 0.5044925111250294, 
+  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.44139650872817954, 
+  "betweenness_centrality": 0.040497132340352675, 
+  "nome": "Arthur", 
+  "degree_centrality": 0.022598870056497175
+ }, 
+ {
+  "somaCentralidade": 0.4622355983144829, 
+  "cargo": "Programador Web", 
+  "closeness_centrality": 0.43703703703703706, 
+  "betweenness_centrality": 0.008249408735072959, 
+  "nome": "David", 
+  "degree_centrality": 0.01694915254237288
+ }, 
+ {
+  "somaCentralidade": 0.4622355983144829, 
+  "cargo": "Master's Student at Univesidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.43703703703703706, 
+  "betweenness_centrality": 0.008249408735072959, 
+  "nome": "Marcos", 
+  "degree_centrality": 0.01694915254237288
+ }, 
+ {
+  "somaCentralidade": 0.45929478122788964, 
+  "cargo": "Web Developer at LogAp Sistemas", 
+  "closeness_centrality": 0.42961165048543687, 
+  "betweenness_centrality": 0.0014345431718313063, 
+  "nome": "Larissa", 
+  "degree_centrality": 0.02824858757062147
+ }, 
+ {
+  "somaCentralidade": 0.45013510194055517, 
   "cargo": "Software Developer da empresa Superintendencia de Informatica da UFRN - SINFO", 
-  "closeness_centrality": 0.46607669616519176, 
+  "closeness_centrality": 0.427536231884058, 
   "betweenness_centrality": 0.0, 
   "nome": "Andreza", 
-  "degree_centrality": 0.02531645569620253
+  "degree_centrality": 0.022598870056497175
  }, 
  {
-  "somaCentralidade": 0.4913931518613943, 
+  "somaCentralidade": 0.45013510194055517, 
   "cargo": "Bosista de Inicia\u00e7\u00e3o Cient\u00edfica na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.46607669616519176, 
+  "closeness_centrality": 0.427536231884058, 
   "betweenness_centrality": 0.0, 
   "nome": "Roniceli", 
-  "degree_centrality": 0.02531645569620253
+  "degree_centrality": 0.022598870056497175
  }, 
  {
-  "somaCentralidade": 0.48606332426450966, 
-  "cargo": "Associate Professor and Researcher at UFRN in Software Engineering, Software Design, Human-Computer Interaction", 
-  "closeness_centrality": 0.45930232558139533, 
-  "betweenness_centrality": 0.0014445429869117672, 
-  "nome": "Jair", 
-  "degree_centrality": 0.02531645569620253
- }, 
- {
-  "somaCentralidade": 0.4756347406160825, 
-  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.45664739884393063, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Luiz Rog\u00e9rio", 
-  "degree_centrality": 0.0189873417721519
- }, 
- {
-  "somaCentralidade": 0.4756347406160825, 
-  "cargo": "Software Engineer na Diredevs", 
-  "closeness_centrality": 0.45664739884393063, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Bernardo", 
-  "degree_centrality": 0.0189873417721519
- }, 
- {
-  "somaCentralidade": 0.4756347406160825, 
+  "somaCentralidade": 0.4373767059865534, 
   "cargo": "Mestrando em Sistemas e Computa\u00e7\u00e3o na UFRN", 
-  "closeness_centrality": 0.45664739884393063, 
+  "closeness_centrality": 0.42042755344418054, 
   "betweenness_centrality": 0.0, 
   "nome": "Porf\u00edrio", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4676013046038642, 
+  "somaCentralidade": 0.4373767059865534, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.40932642487046633, 
-  "betweenness_centrality": 0.013971082265043403, 
-  "nome": "Brenda", 
-  "degree_centrality": 0.04430379746835443
+  "closeness_centrality": 0.42042755344418054, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Luiz Rog\u00e9rio", 
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4653150253879711, 
+  "somaCentralidade": 0.4373767059865534, 
+  "cargo": "Software Engineer na Diredevs", 
+  "closeness_centrality": 0.42042755344418054, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Bernardo", 
+  "degree_centrality": 0.01694915254237288
+ }, 
+ {
+  "somaCentralidade": 0.4428711260115439, 
+  "cargo": "Graduada em Ci\u00eancia da Computa\u00e7\u00e3o pela Universidade Federal do Rio Grande do Norte.", 
+  "closeness_centrality": 0.4194312796208531, 
+  "betweenness_centrality": 0.006490693848317947, 
+  "nome": "Juliana", 
+  "degree_centrality": 0.01694915254237288
+ }, 
+ {
+  "somaCentralidade": 0.4295365651297855, 
   "cargo": "Business Manager", 
-  "closeness_centrality": 0.4463276836158192, 
+  "closeness_centrality": 0.4125874125874126, 
   "betweenness_centrality": 0.0, 
   "nome": "Iago", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4653150253879711, 
+  "somaCentralidade": 0.4295365651297855, 
   "cargo": "Desenvolvedor Web na 4Soft", 
-  "closeness_centrality": 0.4463276836158192, 
+  "closeness_centrality": 0.4125874125874126, 
   "betweenness_centrality": 0.0, 
   "nome": "Jonathan", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4653150253879711, 
-  "cargo": "--", 
-  "closeness_centrality": 0.4463276836158192, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Renato", 
-  "degree_centrality": 0.0189873417721519
- }, 
- {
-  "somaCentralidade": 0.4653150253879711, 
+  "somaCentralidade": 0.4295365651297855, 
   "cargo": "Developer da empresa HXD Interactive Television", 
-  "closeness_centrality": 0.4463276836158192, 
+  "closeness_centrality": 0.4125874125874126, 
   "betweenness_centrality": 0.0, 
   "nome": "Handerson", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4653150253879711, 
+  "somaCentralidade": 0.4295365651297855, 
   "cargo": "Estudante na Universidade Regional do Cariri", 
-  "closeness_centrality": 0.4463276836158192, 
+  "closeness_centrality": 0.4125874125874126, 
   "betweenness_centrality": 0.0, 
   "nome": "J\u00e9ssica", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4542490497611326, 
-  "cargo": "Professor at Federal University of Rio Grande do Norte", 
-  "closeness_centrality": 0.43526170798898073, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Frederico", 
-  "degree_centrality": 0.0189873417721519
+  "somaCentralidade": 0.4351667556801796, 
+  "cargo": "Full Professor at the Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.4116279069767442, 
+  "betweenness_centrality": 0.00658969616106256, 
+  "nome": "Marco", 
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4497797108460202, 
+  "somaCentralidade": 0.41684948556699714, 
+  "cargo": "Bachelor in Computer Science", 
+  "closeness_centrality": 0.4013605442176871, 
+  "betweenness_centrality": 0.004189506321061467, 
+  "nome": "V\u00edtor", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.41684948556699714, 
+  "cargo": "Analista de Sistemas I na SINFO/UFRN", 
+  "closeness_centrality": 0.4013605442176871, 
+  "betweenness_centrality": 0.004189506321061467, 
+  "nome": "J\u00falio C\u00e9sar", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.41684948556699714, 
+  "cargo": "Psic\u00f3loga Organizacional e Consultora de RH", 
+  "closeness_centrality": 0.4013605442176871, 
+  "betweenness_centrality": 0.004189506321061467, 
+  "nome": "Andressa", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.41684948556699714, 
+  "cargo": "System Analyst at SIG Software and Consulting", 
+  "closeness_centrality": 0.4013605442176871, 
+  "betweenness_centrality": 0.004189506321061467, 
+  "nome": "Raul", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.45251733775121944, 
+  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.4004524886877828, 
+  "betweenness_centrality": 0.012516826464566576, 
+  "nome": "Brenda", 
+  "degree_centrality": 0.03954802259887005
+ }, 
+ {
+  "somaCentralidade": 0.4176290554729167, 
   "cargo": "Professor na UFRN", 
-  "closeness_centrality": 0.42934782608695654, 
-  "betweenness_centrality": 0.0014445429869117672, 
+  "closeness_centrality": 0.39954853273137697, 
+  "betweenness_centrality": 0.0011313701991668083, 
   "nome": "Thais", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.43968525487512833, 
-  "cargo": "Bolsista de Desenvolvimento Tecnol\u00f3gico Industrial do CNPq - N\u00edvel A na CNPq - MCT", 
-  "closeness_centrality": 0.42702702702702705, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Gl\u00e1ucio", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.43968525487512833, 
-  "cargo": "Estudante na UFRN", 
-  "closeness_centrality": 0.42702702702702705, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Dayane", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.43968525487512833, 
-  "cargo": "Professor at Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.42702702702702705, 
-  "betweenness_centrality": 0.0, 
-  "nome": "David", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.43968525487512833, 
-  "cargo": "Master's Student at Univesidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.42702702702702705, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Marcos", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.43968525487512833, 
-  "cargo": "PhD Student at Universit\u00e9 de Bretagne-Sud (UBS), Vannes, France", 
-  "closeness_centrality": 0.42702702702702705, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Everton", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.43968525487512833, 
+  "somaCentralidade": 0.4090522440170126, 
   "cargo": "S\u00f3cio Fundador - Gamelogica Ltda", 
-  "closeness_centrality": 0.42702702702702705, 
+  "closeness_centrality": 0.39775280898876403, 
   "betweenness_centrality": 0.0, 
   "nome": "S\u00f3steney", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.43968525487512833, 
+  "somaCentralidade": 0.4090522440170126, 
+  "cargo": "Bolsista de Desenvolvimento Tecnol\u00f3gico Industrial do CNPq - N\u00edvel A na CNPq - MCT", 
+  "closeness_centrality": 0.39775280898876403, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Gl\u00e1ucio", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.4090522440170126, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.39775280898876403, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Dayane", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.4090522440170126, 
+  "cargo": "PhD Student at Universit\u00e9 de Bretagne-Sud (UBS), Vannes, France", 
+  "closeness_centrality": 0.39775280898876403, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Everton", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.4090522440170126, 
   "cargo": "Coordenador e Professor dos Cursos Tecnicos em Informatica e Redes de Computadores da EEEP Isaias G. Damasceno.", 
-  "closeness_centrality": 0.42702702702702705, 
+  "closeness_centrality": 0.39775280898876403, 
   "betweenness_centrality": 0.0, 
   "nome": "Alex", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.43968525487512833, 
+  "somaCentralidade": 0.4090522440170126, 
   "cargo": "Professor at Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.42702702702702705, 
+  "closeness_centrality": 0.39775280898876403, 
   "betweenness_centrality": 0.0, 
   "nome": "Marcelo", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.4304456751054852, 
+  "somaCentralidade": 0.41222032398934527, 
+  "cargo": "Professor at Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.3968609865470852, 
+  "betweenness_centrality": 0.004059902414011488, 
+  "nome": "Elizabeth", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.8056526616965755, 
+  "cargo": "null", 
+  "closeness_centrality": 0.3933333333333333, 
+  "betweenness_centrality": 0.20327978034064326, 
+  "nome": "Elaine", 
+  "degree_centrality": 0.20903954802259886
+ }, 
+ {
+  "somaCentralidade": 0.40257006757505265, 
   "cargo": "Candidate for Master of Science in Computer Science at Northeastern University, Boston, MA", 
-  "closeness_centrality": 0.4114583333333333, 
+  "closeness_centrality": 0.38562091503267976, 
   "betweenness_centrality": 0.0, 
   "nome": "Amanda", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4304456751054852, 
+  "somaCentralidade": 0.40257006757505265, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.4114583333333333, 
+  "closeness_centrality": 0.38562091503267976, 
   "betweenness_centrality": 0.0, 
   "nome": "Hivana", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4304456751054852, 
+  "somaCentralidade": 0.40257006757505265, 
   "cargo": "Coordenador no Curso Superior em Tecnologia em Redes de Computadores na Faculdade Estacio Seama", 
-  "closeness_centrality": 0.4114583333333333, 
+  "closeness_centrality": 0.38562091503267976, 
   "betweenness_centrality": 0.0, 
   "nome": "Lutiano", 
-  "degree_centrality": 0.0189873417721519
+  "degree_centrality": 0.01694915254237288
  }, 
  {
-  "somaCentralidade": 0.4157194523378972, 
-  "cargo": "Adjunct Professor at UFRN", 
-  "closeness_centrality": 0.4030612244897959, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Marcio", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.4157194523378972, 
-  "cargo": "Graduada em Ci\u00eancia da Computa\u00e7\u00e3o pela Universidade Federal do Rio Grande do Norte.", 
-  "closeness_centrality": 0.4030612244897959, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Juliana", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.4157194523378972, 
+  "somaCentralidade": 0.39031442432161045, 
   "cargo": "Desenvolvedor da empresa Coine", 
-  "closeness_centrality": 0.4030612244897959, 
+  "closeness_centrality": 0.37901498929336186, 
   "betweenness_centrality": 0.0, 
   "nome": "Thalyson", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.4157194523378972, 
-  "cargo": "Estagi\u00e1rio em Desenvolvimento de Sistemas na SIG Software e Consultoria em Tecnologia da Informa\u00e7\u00e3o", 
-  "closeness_centrality": 0.4030612244897959, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Rafael", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.4157194523378972, 
+  "somaCentralidade": 0.39031442432161045, 
   "cargo": "Analista Desenvolvedor de Sistemas na Bonor Industrial S.A.", 
-  "closeness_centrality": 0.4030612244897959, 
+  "closeness_centrality": 0.37901498929336186, 
   "betweenness_centrality": 0.0, 
   "nome": "Rodrigo", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.4157194523378972, 
+  "somaCentralidade": 0.6117368813372878, 
+  "cargo": "Estudante do Bacharelado em C&T da UFRN", 
+  "closeness_centrality": 0.37901498929336186, 
+  "betweenness_centrality": 0.14232641181793723, 
+  "nome": "Ra\u00ed", 
+  "degree_centrality": 0.0903954802259887
+ }, 
+ {
+  "somaCentralidade": 0.39031442432161045, 
   "cargo": "Aux. de Contabilidade na Montenegro Contabilidade", 
-  "closeness_centrality": 0.4030612244897959, 
+  "closeness_centrality": 0.37901498929336186, 
   "betweenness_centrality": 0.0, 
   "nome": "Endeson", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.41064311449797536, 
-  "cargo": "Full Professor at the Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3979848866498741, 
+  "somaCentralidade": 0.39031442432161045, 
+  "cargo": "Adjunct Professor at UFRN", 
+  "closeness_centrality": 0.37901498929336186, 
   "betweenness_centrality": 0.0, 
-  "nome": "Marco", 
-  "degree_centrality": 0.012658227848101266
+  "nome": "Marcio", 
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.3999131298088856, 
+  "somaCentralidade": 0.39031442432161045, 
+  "cargo": "Estagi\u00e1rio em Desenvolvimento de Sistemas na SIG Software e Consultoria em Tecnologia da Informa\u00e7\u00e3o", 
+  "closeness_centrality": 0.37901498929336186, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Rafael", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.37775906235744117, 
   "cargo": "Scholarship by CAPES - Coordination of Personal Improvement of Higher Education", 
-  "closeness_centrality": 0.3872549019607843, 
+  "closeness_centrality": 0.36645962732919257, 
   "betweenness_centrality": 0.0, 
   "nome": "Dalay", 
-  "degree_centrality": 0.012658227848101266
+  "degree_centrality": 0.011299435028248588
  }, 
  {
-  "somaCentralidade": 0.3954294990965642, 
-  "cargo": "--", 
-  "closeness_centrality": 0.38164251207729466, 
-  "betweenness_centrality": 0.0011287591711682658, 
-  "nome": "Henrique", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.39430073992539594, 
-  "cargo": "Professor at UFRJ", 
-  "closeness_centrality": 0.38164251207729466, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Anamaria", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Tecnico na Petrobras", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "robson orleans", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "--", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jaizia", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Analista de Redes na ESL consultoria e Servi\u00e7os de Informatica Ltda", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "gledson", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Bachelor in Computer Science", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "V\u00edtor", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Militar da For\u00e7a A\u00e9rea Brasileira - \n1\u00ba/1\u00ba GCC - Primeiro Esquadr\u00e3o do Primeiro de Comunica\u00e7\u00f5es e Controle", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Claudionor", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Analista de Sistemas at CAERN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Roberto", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Mestrando em Sistemas e Computa\u00e7\u00e3o UFRN/PPgSC", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Thomas", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Moacir", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Programmer", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Duarte", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "GIS TECHNICIAN/ GEOLOGY at GEVALE/ VALE", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "HOUTRAN", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estagi\u00e1ria da empresa Nutriday", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Kamilla", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "professor at ufrn", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Martin", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Network Administrator with experience in VoIP. Problem-solver, proactive and team player", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jo\u00e3o Paulo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Especialista em Geoprocessamento e Cartografia Digital", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Aline Berto", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Consultor de Neg\u00f3cios  Imobili\u00e1rios na Gusm\u00e3o Im\u00f3veis", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Eliezer", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Assistente em Administra\u00e7\u00e3o na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Vamberto", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jucyl\u00e2nio Helenylson", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Juliano", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "T\u00e9cnico em Inform\u00e1tica - IFRN (2007-2010) e Estudante de Ci\u00eancia da Computa\u00e7\u00e3o na UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Jean Gleison", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Mestrando do PPgEM na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Militar da For\u00e7a A\u00e9rea Brasileira - \n1\u00ba/1\u00ba GCC - Primeiro Esquadr\u00e3o do Primeiro de Comunica\u00e7\u00f5es e Controle", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Gilberto", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Claudionor", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Mestrando em Sistemas e Computa\u00e7\u00e3o UFRN/PPgSC", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Thomas", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Programmer", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Duarte", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "GIS TECHNICIAN/ GEOLOGY at GEVALE/ VALE", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "HOUTRAN", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jucyl\u00e2nio Helenylson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Estudante na Universidade Potiguar", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Eliseu", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "System Developer at SIG Software e Consultoria em Tecnologia da Informa\u00e7\u00e3o", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Hugo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Graco Babeuf", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Estudante na UFRN - Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Wendell", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na unopar", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "MARIA LUCILANE", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Auxiliar T\u00e9cnico na Procomp Ind\u00fastria Eletr\u00f4nica", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Luis Carlos", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Professor na UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Edgard", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Coder", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Raul", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "System Analyst at Stefanini", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Matheus", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Analista de Sistemas I na SINFO/UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "J\u00falio C\u00e9sar", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "bolsista de inicia\u00e7\u00e3o cientifica na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Icpaix\u00e3o", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Professor/Researcher/Consultant at UFRN", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Uir\u00e1", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Software Developer na 4Soft", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Waldyr", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3863080684596577, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "bolsista de inicia\u00e7\u00e3o cientifica na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Jucylene", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Icpaix\u00e3o", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "T\u00e9cnico de Opera\u00e7\u00e3o na Petrobras Transporte S/A", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Robson", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Pesquisador na Walmart", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Jeferson Ricardo", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Psic\u00f3loga Organizacional e Consultora de RH", 
-  "closeness_centrality": 0.3863080684596577, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "professor at ufrn", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Andressa", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Martin", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3926371823837083, 
-  "cargo": "Designer Industrial Gr\u00e1fico na Mirantes da Lagoa", 
-  "closeness_centrality": 0.3863080684596577, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Samara", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3926371823837083, 
+  "somaCentralidade": 0.3713521968529673, 
   "cargo": "Computer engineering student at University of Wisconson - Madison", 
-  "closeness_centrality": 0.3863080684596577, 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
   "nome": "Denis", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "professor na UFRN", 
-  "closeness_centrality": 0.3798076923076923, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "--", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Marcia", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Jaizia", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Phd student", 
-  "closeness_centrality": 0.3798076923076923, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Analista de Sistemas at CAERN", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Daniel", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Roberto", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Empres\u00e1rio na Infotec Computadores Ltda", 
-  "closeness_centrality": 0.3798076923076923, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Pedro William", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Moacir", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Profissional de Internet", 
-  "closeness_centrality": 0.3798076923076923, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Network Administrator with experience in VoIP. Problem-solver, proactive and team player", 
+  "closeness_centrality": 0.365702479338843, 
   "betweenness_centrality": 0.0, 
-  "nome": "Lu\u00eds Felipe", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Jo\u00e3o Paulo", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Consultor de Neg\u00f3cios  Imobili\u00e1rios na Gusm\u00e3o Im\u00f3veis", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Eliezer", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Assistente em Administra\u00e7\u00e3o na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Vamberto", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Juliano", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estagi\u00e1ria da empresa Nutriday", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Kamilla", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Mestrando do PPgEM na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Gilberto", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "System Developer at SIG Software e Consultoria em Tecnologia da Informa\u00e7\u00e3o", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Hugo", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Graco Babeuf", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na unopar", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "MARIA LUCILANE", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Auxiliar T\u00e9cnico na Procomp Ind\u00fastria Eletr\u00f4nica", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Luis Carlos", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Professor na UFRN", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Edgard", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "System Analyst at Stefanini", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Matheus", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Especialista em Geoprocessamento e Cartografia Digital", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Aline Berto", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Professor/Researcher/Consultant at UFRN", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Uir\u00e1", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jucylene", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "T\u00e9cnico de Opera\u00e7\u00e3o na Petrobras Transporte S/A", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Robson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3713521968529673, 
+  "cargo": "Designer Industrial Gr\u00e1fico na Mirantes da Lagoa", 
+  "closeness_centrality": 0.365702479338843, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Samara", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3741100828394163, 
+  "cargo": "--", 
+  "closeness_centrality": 0.3619631901840491, 
+  "betweenness_centrality": 0.000847457627118644, 
+  "nome": "Henrique", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.3732626252122977, 
+  "cargo": "Professor at UFRJ", 
+  "closeness_centrality": 0.3619631901840491, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Anamaria", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Advogado", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Danilo Barros Pinto", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Estudante na Universidade Estadual do Vale do Acara\u00fa", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Nikaelly", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Postdoc at TU Delft", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Roberta", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Supervisora no setor SPED no escrit\u00f3rio JC Consultoria Contabil", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Monaliza", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Professora de L\u00edngua Inglesa na UNP, PRONATEC e IMD", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Wilka", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Estudante na Universidade Federal do Piau\u00ed", 
-  "closeness_centrality": 0.3798076923076923, 
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Empres\u00e1rio na Infotec Computadores Ltda", 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
-  "nome": "Ayrton", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Pedro William", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Professor at Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Elizabeth", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "auxiliar financeiro na Atacad\u00e3o Sambeneditense", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Urbano", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Frequentou: icfce", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Luiz", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Prof. IFCE", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Mateus", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Docente da \u00c1rea T\u00e9cnica em Inform\u00e1tica", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Rhyan", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "L\u00edder Estudantil - Diretor Presidente do Time Enactus IFCE Juazeiro do Norte", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Marcos Antonio", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "--", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Miliana", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Instituto Metr\u00f3pole Digital", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "IMD", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "tecnico de Informatica na ...", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Erica", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Redes de Computadores na Professor T\u00e9cnico", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Domingos", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Especialista em Gest\u00e3o e Avalia\u00e7\u00e3o da Educa\u00e7\u00e3o", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Adriana de Brito", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Professor na Senac Cear\u00e1", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jesse", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Estudante na UFRN", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Ezequely", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Estudante na Raimundo Saraiva Coelho", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Jose", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Redes de Computadores na Professor T\u00e9cnico", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Domingos", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Especialista em Gest\u00e3o e Avalia\u00e7\u00e3o da Educa\u00e7\u00e3o", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Adriana de Brito", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Italo", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Bolsista CAPES na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Simone de Oliveira", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Mestrado em Engenharia El\u00e9trica na UFCG", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Emanuelle", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
-  "cargo": "Coordenadora e Professora T\u00e9cnica dos Cursos de Com\u00e9rcio e de Contabilidade.", 
-  "closeness_centrality": 0.3798076923076923, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Fabr\u00edcia", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3861368062317429, 
+  "somaCentralidade": 0.3661385158847964, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3798076923076923, 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
   "nome": "Silas Tiago", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.37684412651370036, 
-  "cargo": "Founder at Insano and Agile Project Manager Specialist", 
-  "closeness_centrality": 0.3632183908045977, 
-  "betweenness_centrality": 0.0009675078610013707, 
-  "nome": "Pedro", 
-  "degree_centrality": 0.012658227848101266
- }, 
- {
-  "somaCentralidade": 0.35358186117679785, 
-  "cargo": "--", 
-  "closeness_centrality": 0.34725274725274724, 
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "professor na UFRN", 
+  "closeness_centrality": 0.3604887983706721, 
   "betweenness_centrality": 0.0, 
-  "nome": "Geane", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Marcia", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.35358186117679785, 
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Phd student", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Daniel", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Profissional de Internet", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Lu\u00eds Felipe", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Frequentou: icfce", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Luiz", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Postdoc at TU Delft", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Roberta", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Estudante na Universidade Federal do Piau\u00ed", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Ayrton", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.37431779462341985, 
+  "cargo": "Estudante na Universidade Potiguar", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0025295612244991385, 
+  "nome": "Fl\u00e1vio", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "auxiliar financeiro na Atacad\u00e3o Sambeneditense", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Urbano", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.37431779462341985, 
+  "cargo": "CEO at Lua4 & Social Soma", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0025295612244991385, 
+  "nome": "Eduardo", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Instituto Metr\u00f3pole Digital", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "IMD", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Professor na Senac Cear\u00e1", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jesse", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Ezequely", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Mestrado em Engenharia El\u00e9trica na UFCG", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Emanuelle", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3661385158847964, 
+  "cargo": "Coordenadora e Professora T\u00e9cnica dos Cursos de Com\u00e9rcio e de Contabilidade.", 
+  "closeness_centrality": 0.3604887983706721, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Fabr\u00edcia", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.35908865297064335, 
+  "cargo": "Founder at Insano and Agile Project Manager Specialist", 
+  "closeness_centrality": 0.34705882352941175, 
+  "betweenness_centrality": 0.0007303944129830111, 
+  "nome": "Pedro", 
+  "degree_centrality": 0.011299435028248588
+ }, 
+ {
+  "somaCentralidade": 0.3396119816650677, 
   "cargo": "Pesquisadora/Doutoranda no Programa de P\u00f3s-Gradua\u00e7\u00e3o em Engenharia Qu\u00edmica - UFRN", 
-  "closeness_centrality": 0.34725274725274724, 
+  "closeness_centrality": 0.3339622641509434, 
   "betweenness_centrality": 0.0, 
   "nome": "Graciana", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.35358186117679785, 
+  "somaCentralidade": 0.3396119816650677, 
   "cargo": "Professora na CCP", 
-  "closeness_centrality": 0.34725274725274724, 
+  "closeness_centrality": 0.3339622641509434, 
   "betweenness_centrality": 0.0, 
   "nome": "D\u00e9bora Raquiel", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.35358186117679785, 
+  "somaCentralidade": 0.3396119816650677, 
   "cargo": "Analista de Suporte N\u00edvel 2 na Lanlink Inform\u00e1tica Ltda.", 
-  "closeness_centrality": 0.34725274725274724, 
+  "closeness_centrality": 0.3339622641509434, 
   "betweenness_centrality": 0.0, 
   "nome": "Thomaz", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.35358186117679785, 
-  "cargo": "--", 
-  "closeness_centrality": 0.34725274725274724, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Pastor Derivaldo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.35358186117679785, 
-  "cargo": "Operador de Microcomputador na Secretaria Municipal de Educa\u00e7\u00e3o", 
-  "closeness_centrality": 0.34725274725274724, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Esa\u00fa", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.35358186117679785, 
+  "somaCentralidade": 0.3396119816650677, 
   "cargo": "Analista de sistemas da empresa GESTEC", 
-  "closeness_centrality": 0.34725274725274724, 
+  "closeness_centrality": 0.3339622641509434, 
   "betweenness_centrality": 0.0, 
   "nome": "George", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.35358186117679785, 
+  "somaCentralidade": 0.3396119816650677, 
+  "cargo": "Operador de Microcomputador na Secretaria Municipal de Educa\u00e7\u00e3o", 
+  "closeness_centrality": 0.3339622641509434, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Esa\u00fa", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3396119816650677, 
+  "cargo": "--", 
+  "closeness_centrality": 0.3339622641509434, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Pastor Derivaldo", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3396119816650677, 
+  "cargo": "--", 
+  "closeness_centrality": 0.3339622641509434, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Geane", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3396119816650677, 
   "cargo": "Associate Professor at Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.34725274725274724, 
+  "closeness_centrality": 0.3339622641509434, 
   "betweenness_centrality": 0.0, 
   "nome": "Fernando", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Founder", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Ubirajara", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
+  "somaCentralidade": 0.3334274952919021, 
   "cargo": "--", 
-  "closeness_centrality": 0.33978494623655914, 
+  "closeness_centrality": 0.3277777777777778, 
   "betweenness_centrality": 0.0, 
   "nome": "Adriana", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "T\u00e9cnico de Eletr\u00f4nica na Diebold Procomp", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Fl\u00e1vio", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Estagi\u00e1rio na Oi/Telemar", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "William", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Journalist", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "B\u00e1rbara", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Adjoint Professor", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jos\u00e9 Anderson", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Educador na funcionario publico", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Maria Joana", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Compositor na Musica", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Eduardo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Livre-docente e Titular Teoria Liter\u00e1ria - Dept Teoria Liter\u00e1ria - IEL-UNICAMP", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Suzi", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "Professor Adjunto IV - DEART/UFRN, Coordenador do CENOTEC", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Jos\u00e9 S\u00e1vio", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
-  "cargo": "ECOCIL  Gerente de vendas", 
-  "closeness_centrality": 0.33978494623655914, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Bento Ramalho", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.34611406016060975, 
+  "somaCentralidade": 0.3334274952919021, 
   "cargo": "Estagi\u00e1rio na Advocacia-Geral da Uni\u00e3o", 
-  "closeness_centrality": 0.33978494623655914, 
+  "closeness_centrality": 0.3277777777777778, 
   "betweenness_centrality": 0.0, 
   "nome": "Ruali", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.34611406016060975, 
+  "somaCentralidade": 0.3334274952919021, 
   "cargo": "Auxiliar Administrativo da empresa Panificadora Q'Del\u00edcia", 
-  "closeness_centrality": 0.33978494623655914, 
+  "closeness_centrality": 0.3277777777777778, 
   "betweenness_centrality": 0.0, 
   "nome": "Thaisa", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3368730469784439, 
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Founder", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Ubirajara", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Adjoint Professor", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jos\u00e9 Anderson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Estagi\u00e1rio na Oi/Telemar", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "William", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Journalist", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "B\u00e1rbara", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Educador na funcionario publico", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Maria Joana", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Livre-docente e Titular Teoria Liter\u00e1ria - Dept Teoria Liter\u00e1ria - IEL-UNICAMP", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Suzi", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "Professor Adjunto IV - DEART/UFRN, Coordenador do CENOTEC", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jos\u00e9 S\u00e1vio", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.3334274952919021, 
+  "cargo": "ECOCIL  Gerente de vendas", 
+  "closeness_centrality": 0.3277777777777778, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Bento Ramalho", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.32572205024468487, 
   "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.3305439330543933, 
+  "closeness_centrality": 0.32007233273056057, 
   "betweenness_centrality": 0.0, 
   "nome": "Tullyo", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3368730469784439, 
-  "cargo": "Software Developer at Superintend\u00eancia de Inform\u00e1tica (SINFO) - UFRN", 
-  "closeness_centrality": 0.3305439330543933, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Danilo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.3368730469784439, 
+  "somaCentralidade": 0.32572205024468487, 
   "cargo": "I.T Coordinator at RE/MAX", 
-  "closeness_centrality": 0.3305439330543933, 
+  "closeness_centrality": 0.32007233273056057, 
   "betweenness_centrality": 0.0, 
   "nome": "Darllan", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3368730469784439, 
+  "somaCentralidade": 0.32572205024468487, 
+  "cargo": "Software Developer at Superintend\u00eancia de Inform\u00e1tica (SINFO) - UFRN", 
+  "closeness_centrality": 0.32007233273056057, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Danilo", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.32572205024468487, 
   "cargo": "Estudante de Redes de computadores", 
-  "closeness_centrality": 0.3305439330543933, 
+  "closeness_centrality": 0.32007233273056057, 
   "betweenness_centrality": 0.0, 
   "nome": "Glayce", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.3368730469784439, 
+  "somaCentralidade": 0.32572205024468487, 
   "cargo": "Estagi\u00e1ria na Progesp - UFRN", 
-  "closeness_centrality": 0.3305439330543933, 
+  "closeness_centrality": 0.32007233273056057, 
   "betweenness_centrality": 0.0, 
   "nome": "T\u00e9cia", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.2973051728559106, 
+  "somaCentralidade": 0.29205748450441554, 
   "cargo": "Software Developer at H&MV Engineering", 
-  "closeness_centrality": 0.29097605893186, 
+  "closeness_centrality": 0.28640776699029125, 
   "betweenness_centrality": 0.0, 
   "nome": "Tiago", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Analista de Sistema na Superintend\u00eancia de Inform\u00e1tica - Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jeferson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Profissional de Tecnologia da informa\u00e7\u00e3o e servi\u00e7os", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Thalisson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Designer de Moda", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Rafaella", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Analista de Sistemas na Superintend\u00eancia de Inform\u00e1tica - UFRN", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Jackson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Analista do Minist\u00e9rio P\u00fablico na Minist\u00e9rio P\u00fablico do Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Maria Em\u00edlia", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "IT Consultant at Nextel Telecomunica\u00e7\u00f5es", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Priscilla", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Empreiteiro", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Victor", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "IFRN - Federal Institute of Education, Science and Technology", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Val\u00e9rio", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Assistant Professor na Federal University of Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "S\u00edlvia", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "--", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Joseilton", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "M.S Student at Federal University of Rio Grande do Norte (UFRN)", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Sarah", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "--", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Alisson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Estudante na UFRN", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Camila", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Estudante na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Beremiz", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "T\u00e9cnico-Administrativo na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Otto", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Full Stack and Mobile Developer at GranDuke Geomatics", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Diego", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Researcher na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Kelyson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.2883973213479901, 
+  "cargo": "Professor na Federal University of Piaui", 
+  "closeness_centrality": 0.2827476038338658, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Ivan", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Editor e Diretor de Imagens no Grupo CN Agitos", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Neto", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Especialista em TI da empresa Banco Semear", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "R\u00f4mulo Leonardo", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Estudante na Universidade Potiguar", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Yuri Breno", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Co-founder at Rede CsF", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Guilherme", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "--", 
-  "closeness_centrality": 0.27816901408450706, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Ant\u00f4nio Eng. Aliment", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Professor do Curso de Direito na UFRN", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Thomas Kefas", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "Profissional de Contabilidade", 
-  "closeness_centrality": 0.27816901408450706, 
-  "betweenness_centrality": 0.0, 
-  "nome": "\u2663", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "Professor adjunto na Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.27816901408450706, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Lauro", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "--", 
-  "closeness_centrality": 0.27816901408450706, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Leonardo", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "T\u00e9cnico de Laborat\u00f3rio na Cersel", 
-  "closeness_centrality": 0.27816901408450706, 
-  "betweenness_centrality": 0.0, 
-  "nome": "Emerson", 
-  "degree_centrality": 0.006329113924050633
- }, 
- {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Interim Manager at Grupo Ser Educacional", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Alvaro", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
-  "cargo": "TAL de Manuten\u00e7\u00e3o na IFRN Campus Currais Novos", 
-  "closeness_centrality": 0.27816901408450706, 
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "--", 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
-  "nome": "Iasmin", 
-  "degree_centrality": 0.006329113924050633
+  "nome": "Leonardo", 
+  "degree_centrality": 0.005649717514124294
  }, 
  {
-  "somaCentralidade": 0.28449812800855767, 
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "T\u00e9cnico de Laborat\u00f3rio na Cersel", 
+  "closeness_centrality": 0.27527216174183516, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Emerson", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
   "cargo": "Estudante at Universidade Federal do Rio Grande do Norte", 
-  "closeness_centrality": 0.27816901408450706, 
+  "closeness_centrality": 0.27527216174183516, 
   "betweenness_centrality": 0.0, 
   "nome": "Talina", 
-  "degree_centrality": 0.006329113924050633
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "Professor adjunto na Universidade Federal do Rio Grande do Norte", 
+  "closeness_centrality": 0.27527216174183516, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Lauro", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "--", 
+  "closeness_centrality": 0.27527216174183516, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Ant\u00f4nio Eng. Aliment", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "Profissional de Contabilidade", 
+  "closeness_centrality": 0.27527216174183516, 
+  "betweenness_centrality": 0.0, 
+  "nome": "\u2663", 
+  "degree_centrality": 0.005649717514124294
+ }, 
+ {
+  "somaCentralidade": 0.28092187925595946, 
+  "cargo": "TAL de Manuten\u00e7\u00e3o na IFRN Campus Currais Novos", 
+  "closeness_centrality": 0.27527216174183516, 
+  "betweenness_centrality": 0.0, 
+  "nome": "Iasmin", 
+  "degree_centrality": 0.005649717514124294
  }
 ]

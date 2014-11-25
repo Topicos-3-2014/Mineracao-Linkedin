@@ -8,6 +8,16 @@ import matplotlib.pyplot as plt
 def Centralidades(no):
 	return no['somaCentralidade']
 
+def Betweenness_centrality(no):
+	return no['betweenness_centrality']
+
+def Degree_centrality(no):
+	return no['degree_centrality']
+
+def Closeness_centrality(no):
+	return no['closeness_centrality']
+
+
 def getLista(G):
 	nos = []
 	for x in Grafo.nodes():
@@ -81,7 +91,7 @@ Grafo = calcularCentralidade(Grafo)
 #lista contendo todos os nos do grafo
 lista = getLista(Grafo)
 #ordena a lista com base na soma das centralidades
-lista.sort(reverse=True, key=Centralidades)
+lista.sort(reverse=True, key=Closeness_centrality)
 
 
 
@@ -90,7 +100,7 @@ f.write(json.dumps(lista, indent=1))
 f.close()
 
 for x in lista:
-	print x['nome'],",", x['betweenness_centrality'],",", x['degree_centrality'],",", x['closeness_centrality']
+	print x['nome'],",", x['degree_centrality'],",",1,",", 1
 
 
 nx.draw(Grafo)
